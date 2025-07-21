@@ -1,5 +1,1 @@
-streamlit==1.29.0
-pandas
-matplotlib
-nsepython
-numpy
+
